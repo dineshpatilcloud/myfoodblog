@@ -8,3 +8,8 @@
 2. eat oats
 3. eat till half of your tummy :-P
 
+
+```bash
+mkdir newdir
+
+```
