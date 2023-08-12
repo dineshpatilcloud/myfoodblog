@@ -21,3 +21,9 @@ cd newdir
 touch newfile.txt
 
 ```
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
